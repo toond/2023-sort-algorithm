@@ -24,5 +24,8 @@
     <ClCompile Include="선택 문제.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="최근접 점의 쌍.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
